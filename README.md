@@ -74,6 +74,6 @@ To change the `dag` filte that the debbuger will start, go to the `/.vscode/laun
 
 ## Links 
 
-[Airflow Setup Documentation](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
-[DAGs best practices](https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html)
-[Airflow architecture overview](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html)
+- [Airflow Setup Documentation](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
+- [DAGs best practices](https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html)
+- [Airflow architecture overview](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html)
